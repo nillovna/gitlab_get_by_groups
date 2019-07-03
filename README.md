@@ -1,4 +1,4 @@
-Gitlab gt clone repositories by group
+Gitlab git clone repositories by group
 ===================
 
 Script to get gitlab repositories in groups
